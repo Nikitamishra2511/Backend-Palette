@@ -1,0 +1,2 @@
+class Pal < ApplicationRecord
+end

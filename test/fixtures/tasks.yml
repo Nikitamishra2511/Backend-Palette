@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  guide: one
+  seeker: one
+  description: MyText
+  frequency: MyString
+  completed: false
+
+two:
+  guide: two
+  seeker: two
+  description: MyText
+  frequency: MyString
+  completed: false
