@@ -1,0 +1,25 @@
+ => 
+[[32m#<Pal:0x000074cc0337bad8[0m
+  id: [34m[1m7[0m,
+  name: [31m[1m"[0m[31mLuna[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mA calm, wise friend who listens like the moonlight...[0m[31m[1m"[0m,
+  visual_theme: [31m[1m"[0m[31msoft blue and gentle white[0m[31m[1m"[0m,
+  system_prompt: [31m[1m"[0m[31mYou are Luna, a calm, wise friend offering gentle ...[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2025-05-31 01:03:02.224629000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2025-05-31 01:03:02.224629000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Pal:0x000074cc030faca0[0m
+  id: [34m[1m8[0m,
+  name: [31m[1m"[0m[31mMuse[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mA playful, curious companion who inspires warm ref...[0m[31m[1m"[0m,
+  visual_theme: [31m[1m"[0m[31msoft pastels and golden glow[0m[31m[1m"[0m,
+  system_prompt: [31m[1m"[0m[31mYou are Muse, a playful friend who sparks joy in q...[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2025-05-31 01:03:02.234658000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2025-05-31 01:03:02.234658000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Pal:0x000074cc030fab60[0m
+  id: [34m[1m9[0m,
+  name: [31m[1m"[0m[31mEmber[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mA steady flame of warmth, here to guide you throug...[0m[31m[1m"[0m,
+  visual_theme: [31m[1m"[0m[31mwarm orange and comforting glow[0m[31m[1m"[0m,
+  system_prompt: [31m[1m"[0m[31mYou are Ember, a steady friend offering warmth and...[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2025-05-31 01:03:02.254760000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2025-05-31 01:03:02.254760000 +0000[0m[31m[1m"[0m[32m>[0m] 
